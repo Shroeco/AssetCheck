@@ -1,0 +1,27 @@
+{
+    "categories": {
+        "Textures": {
+            "extensions": [".png", ".jpg", ".jpeg", ".tga"]
+        },
+        "Audio": {
+            "extensions": [".wav", ".ogg", ".mp3"]
+        },
+        "Models": {
+            "extensions": [".fbx", ".obj"]
+        },
+        "Materials": {
+            "extensions": [".mat"]
+        },
+        "Animations": {
+            "extensions": [".anim", ".fbx"]
+        }
+    },
+
+    "folder_mappings": {
+        "Textures": "Textures",
+        "Audio": "Audio",
+        "Models": "Models",
+        "Materials": "Materials",
+        "Models/Animations": "Animations"
+    }
+}
